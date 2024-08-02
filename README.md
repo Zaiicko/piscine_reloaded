@@ -1,5 +1,6 @@
 # Piscine Reloaded
 
+![Shell Scripting](https://img.shields.io/badge/Shell-Scripting-green.svg)
 ![Language: C](https://img.shields.io/badge/Language-C-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 

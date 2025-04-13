@@ -1,8 +1,7 @@
-# Piscine Reloaded
+# Piscine Reloaded  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![42 logo little](https://github.com/user-attachments/assets/4cecf5b8-a28e-49c5-a4b1-2030e571a0b3)
 
 ![Shell Scripting](https://img.shields.io/badge/Shell-Scripting-green.svg)
 ![Language: C](https://img.shields.io/badge/Language-C-blue.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Introduction
 
